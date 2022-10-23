@@ -1,0 +1,23 @@
+.top {
+    padding: 20px 0;
+    background: linear-gradient(90.09deg, #3800AF 0%, #BF7204 97.52%, #C27500 100%, #C27500 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.top__icon {
+   font-size: 50px;
+   color: #FFFFFF;
+}
+
+.top__p {
+    font-family: 'Comfortaa-Regular';
+font-size: 16px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
