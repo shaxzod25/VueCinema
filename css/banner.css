@@ -52,6 +52,10 @@ margin-bottom: 50px;
     line-height: 12px;
     color: white;
 }
+.btn:hover {
+    background: var(--orange);
+    color: var(--black);
+}
 
 .banner__bg {
     position: absolute;
